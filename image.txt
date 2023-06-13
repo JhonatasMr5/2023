@@ -1,0 +1,30 @@
+Inter N/A
+
+Primary Secondary
+
+Type scale
+
+The Once UI typography system is designed to cater to the requirements of the majority of product
+interfaces. Although in rare instances, it may seem restrictive, the average product requires nothing
+beyond the provided scale.
+
+The scale can be expressed using either REMs or pixels, however, the utilization of REMs as the
+fundamental unit offers greater flexibility and the ability to make precise adjustments across various
+devices.
+
+Additionally, utilizing REMs as the base unit enables dynamic scaling of your user interface, based on
+the dimensions of the screen. This provides a more optimized experience for users, as text size and
+spacing can be adjusted automatically to suit the particular device.
+
+More about dynamic scaling >
+
+Display Types
+
+lt's worth noting that display typefaces are typically utilized on landing pages and are not
+recommended for functional user interfaces, as they occupy an excessive amount of space. However,
+exceptions may apply, such as in the case of short headlines on empty screens. The typography
+Scale accommodates a three-tier hierarchy, featuring two distinct weights, which can be expanded to
+an eight-tier hierarchy through the incorporation of Heading Types.
+
+Display types are recommended to use on more spacious pages, such as landing pages or a login
+
